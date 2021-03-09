@@ -4,5 +4,6 @@
 ### You can check my blog [chera_web](https://www.instagram.com/chera_web/)
 ### Also, I'm already working on [kwork.ru](https://kwork.ru/user/cher_web), check my profile =)
 
-![HTML](https://img.shields.io/badge/-HTML-080808?style=for-the-badge&logo=html5&color=red)
+![HTML](https://img.shields.io/badge/-HTML-080808?style=for-the-badge&logo=html5)
 ![HTML](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
