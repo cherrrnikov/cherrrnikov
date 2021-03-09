@@ -8,7 +8,7 @@
 ![HTML](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=react)
 
-### You can check my blog [chera_web](https://www.instagram.com/chera_web/)
+### You can check my blog in the Inastagram: [chera_web](https://www.instagram.com/chera_web/)
 ### Also, I'm already working on [kwork.ru](https://kwork.ru/user/cher_web), check my profile and take an order =)
 
 ## Likewise, we can contact here ⤵
